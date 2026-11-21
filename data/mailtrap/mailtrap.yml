@@ -1,0 +1,12 @@
+name: "Mailtrap"
+description: "Email testing and delivery platform for staging and production. Offers a fake SMTP server for testing and email infrastructure for sending. Includes spam analysis and deliverability monitoring."
+source_url: "https://mailtrap.io/"
+category: "Deliverability & Testing"
+tags:
+  - "api"
+  - "freemium"
+  - "testing"
+  - "deliverability"
+icon_url: "https://icons.duckduckgo.com/ip3/mailtrap.io.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://mailtrap.io/>\n"
+updated_at: "2026-11-21 01:05"

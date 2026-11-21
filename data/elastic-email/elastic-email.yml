@@ -1,0 +1,12 @@
+name: "Elastic Email"
+description: "Email sending platform with API and SMTP relay. Includes email editor, automation, and detailed reporting. Offers a free trial and pay-as-you-go pricing."
+source_url: "https://elasticemail.com/"
+category: "SMTP Relays"
+tags:
+  - "api"
+  - "paid"
+  - "smtp"
+  - "email-editor"
+icon_url: "https://icons.duckduckgo.com/ip3/elasticemail.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://elasticemail.com/>\n"
+updated_at: "2026-11-21 01:05"

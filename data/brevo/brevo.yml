@@ -1,0 +1,12 @@
+name: "Brevo"
+description: "All-in-one marketing and transactional email platform. Offers email API, SMTP relay, automation, and CRM tools. Includes a free plan with daily sending limits."
+source_url: "https://www.brevo.com/"
+category: "Email APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "marketing-automation"
+  - "crm"
+icon_url: "https://icons.duckduckgo.com/ip3/www.brevo.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.brevo.com/>\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,12 @@
+name: "Loops"
+description: "Email platform for SaaS companies to send transactional and marketing messages. Provides API, visual workflow builder, and audience management. Pricing is based on monthly active users."
+source_url: "https://loops.so/"
+category: "Email APIs"
+tags:
+  - "api"
+  - "paid"
+  - "saas"
+  - "marketing-automation"
+icon_url: "https://icons.duckduckgo.com/ip3/loops.so.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://loops.so/>\n"
+updated_at: "2026-11-21 01:05"

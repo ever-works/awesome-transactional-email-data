@@ -1,0 +1,12 @@
+name: "Docker Mailserver"
+description: "Open-source full-stack mail server for Docker containers. Uses Postfix, Dovecot, and OpenDKIM with simple configuration. Intended for self-hosted email domains."
+source_url: "https://docker-mailserver.github.io/"
+category: "Self-Hosted Mail Servers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "docker"
+  - "mta"
+icon_url: "https://icons.duckduckgo.com/ip3/docker-mailserver.github.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://docker-mailserver.github.io/>\n- Repository: <https://github.com/docker-mailserver/docker-mailserver>\n\nLicense: MIT.\n"
+updated_at: "2026-11-21 01:05"

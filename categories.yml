@@ -1,0 +1,12 @@
+- id: email-apis
+  name: "Email APIs"
+- id: smtp-relays
+  name: "SMTP Relays"
+- id: self-hosted-mail-servers
+  name: "Self-Hosted Mail Servers"
+- id: email-templates-and-builders
+  name: "Email Templates & Builders"
+- id: deliverability-and-testing
+  name: "Deliverability & Testing"
+- id: inbound-email-parsing
+  name: "Inbound Email Parsing"

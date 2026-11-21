@@ -1,0 +1,12 @@
+name: "Plunk"
+description: "Open-source email API for sending transactional messages. Can be self-hosted or used as a managed service. Includes templates, logs, and webhooks."
+source_url: "https://plunk.io/"
+category: "Email APIs"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "api"
+  - "transactional"
+icon_url: "https://icons.duckduckgo.com/ip3/plunk.io.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://plunk.io/>\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,12 @@
+name: "MailerSend"
+description: "Transactional email API and SMTP relay for SaaS businesses. Includes email builder, analytics, and inbound routing. Offers a free tier and paid plans."
+source_url: "https://mailersend.com/"
+category: "Email APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "smtp"
+  - "transactional"
+icon_url: "https://icons.duckduckgo.com/ip3/mailersend.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://mailersend.com/>\n"
+updated_at: "2026-11-21 01:05"

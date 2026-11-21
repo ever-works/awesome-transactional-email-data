@@ -1,0 +1,12 @@
+name: "Mailjet"
+description: "Email sending service with API and SMTP relay. Provides email builder, segmentation, and transactional templates. Offers a free plan and paid tiers based on volume."
+source_url: "https://www.mailjet.com/"
+category: "SMTP Relays"
+tags:
+  - "api"
+  - "freemium"
+  - "smtp"
+  - "email-builder"
+icon_url: "https://icons.duckduckgo.com/ip3/www.mailjet.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://www.mailjet.com/>\n"
+updated_at: "2026-11-21 01:05"

@@ -1,0 +1,12 @@
+name: "Dyspatch"
+description: "Email template creation and management platform for transactional messages. Provides a visual builder, version control, and integration with email service providers. Supports collaborative design and testing."
+source_url: "https://dyspatch.io/"
+category: "Email Templates & Builders"
+tags:
+  - "paid"
+  - "api"
+  - "email-templates"
+  - "design"
+icon_url: "https://icons.duckduckgo.com/ip3/dyspatch.io.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://dyspatch.io/>\n"
+updated_at: "2026-11-21 01:05"

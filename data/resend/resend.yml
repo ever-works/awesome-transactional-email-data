@@ -1,0 +1,11 @@
+name: "Resend"
+description: "Email API for developers to send transactional and marketing emails. Provides React-based email templates, logs, and analytics. Offers a free tier and paid plans based on volume."
+source_url: "https://resend.com/"
+category: "Email APIs"
+tags:
+  - "api"
+  - "freemium"
+  - "developer-tools"
+icon_url: "https://icons.duckduckgo.com/ip3/resend.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://resend.com/>\n"
+updated_at: "2026-11-21 01:05"

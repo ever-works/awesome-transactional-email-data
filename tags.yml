@@ -1,0 +1,56 @@
+- id: api
+  name: "API"
+- id: paid
+  name: "Paid"
+- id: transactional
+  name: "Transactional"
+- id: freemium
+  name: "Freemium"
+- id: developer-tools
+  name: "Developer Tools"
+- id: aws
+  name: "AWS"
+- id: enterprise
+  name: "Enterprise"
+- id: smtp
+  name: "SMTP"
+- id: marketing-automation
+  name: "Marketing Automation"
+- id: crm
+  name: "CRM"
+- id: email-builder
+  name: "Email Builder"
+- id: saas
+  name: "SaaS"
+- id: open-source
+  name: "Open Source"
+- id: self-hosted
+  name: "Self-Hosted"
+- id: testing
+  name: "Testing"
+- id: deliverability
+  name: "Deliverability"
+- id: mta
+  name: "MTA"
+- id: high-volume
+  name: "High Volume"
+- id: mail-server
+  name: "Mail Server"
+- id: docker
+  name: "Docker"
+- id: email-hosting
+  name: "Email Hosting"
+- id: kubernetes
+  name: "Kubernetes"
+- id: email-templates
+  name: "Email Templates"
+- id: design
+  name: "Design"
+- id: inbound
+  name: "Inbound"
+- id: webhooks
+  name: "Webhooks"
+- id: free-plan
+  name: "Free Plan"
+- id: email-editor
+  name: "Email Editor"

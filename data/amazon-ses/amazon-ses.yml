@@ -1,0 +1,12 @@
+name: "Amazon SES"
+description: "Cloud email sending service from AWS for transactional and marketing email. Supports SMTP and API integration with pay-as-you-go pricing. Includes reputation monitoring and dedicated IP options."
+source_url: "https://aws.amazon.com/ses"
+category: "Email APIs"
+tags:
+  - "api"
+  - "paid"
+  - "aws"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/aws.amazon.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://aws.amazon.com/ses>\n"
+updated_at: "2026-11-21 01:05"

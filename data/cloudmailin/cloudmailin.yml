@@ -1,0 +1,12 @@
+name: "CloudMailin"
+description: "Inbound email service that receives messages and forwards them via HTTP webhooks. Provides a dedicated email address and parsing for attachments. Used for processing incoming email at scale."
+source_url: "https://cloudmailin.com/"
+category: "Inbound Email Parsing"
+tags:
+  - "api"
+  - "paid"
+  - "inbound"
+  - "webhooks"
+icon_url: "https://icons.duckduckgo.com/ip3/cloudmailin.com.ico"
+markdown: "## Pricing\n\nPaid.\n\n## Links\n\n- Website: <https://cloudmailin.com/>\n"
+updated_at: "2026-11-21 01:05"

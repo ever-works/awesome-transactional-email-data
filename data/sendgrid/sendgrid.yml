@@ -1,0 +1,12 @@
+name: "SendGrid"
+description: "Cloud-based email delivery platform with API and SMTP relay. Offers marketing campaigns, transactional email, and inbound parsing. Includes a free plan and tiered paid options."
+source_url: "https://sendgrid.com/"
+category: "SMTP Relays"
+tags:
+  - "api"
+  - "freemium"
+  - "smtp"
+  - "enterprise"
+icon_url: "https://icons.duckduckgo.com/ip3/sendgrid.com.ico"
+markdown: "## Pricing\n\nFreemium.\n\n## Links\n\n- Website: <https://sendgrid.com/>\n"
+updated_at: "2026-11-21 01:05"

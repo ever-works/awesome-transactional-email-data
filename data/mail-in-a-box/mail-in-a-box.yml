@@ -1,0 +1,12 @@
+name: "Mail-in-a-Box"
+description: "Open-source solution for self-hosting email, calendars, and contacts. Configures a mail server with DNS, SSL, and webmail on Ubuntu. Designed for personal or small organizational use."
+source_url: "https://mailinabox.email/"
+category: "Self-Hosted Mail Servers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "mail-server"
+  - "email-hosting"
+icon_url: "https://icons.duckduckgo.com/ip3/mailinabox.email.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://mailinabox.email/>\n- Repository: <https://github.com/mail-in-a-box/mailinabox>\n\nLicense: BSD-2-Clause.\n"
+updated_at: "2026-11-21 01:05"

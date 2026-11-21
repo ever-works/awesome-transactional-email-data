@@ -1,0 +1,12 @@
+name: "Postfix"
+description: "Open-source mail transfer agent (MTA) for routing and delivering email. Widely used as a self-hosted SMTP server on Unix-like systems. Known for security and modular architecture."
+source_url: "https://www.postfix.org/"
+category: "Self-Hosted Mail Servers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "mta"
+  - "smtp"
+icon_url: "https://icons.duckduckgo.com/ip3/www.postfix.org.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://www.postfix.org/>\n"
+updated_at: "2026-11-21 01:05"

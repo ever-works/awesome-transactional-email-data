@@ -1,0 +1,12 @@
+name: "Mailcow"
+description: "Open-source mail server suite based on Docker. Includes Postfix, Dovecot, Rspamd, and a web interface. Supports self-hosted email with antispam and antivirus."
+source_url: "https://mailcow.email/"
+category: "Self-Hosted Mail Servers"
+tags:
+  - "open-source"
+  - "self-hosted"
+  - "mail-server"
+  - "docker"
+icon_url: "https://icons.duckduckgo.com/ip3/mailcow.email.ico"
+markdown: "## Pricing\n\nOpen Source.\n\n## Links\n\n- Website: <https://mailcow.email/>\n- Repository: <https://github.com/mailcow/mailcow-dockerized>\n\nLicense: GPL-3.0.\n"
+updated_at: "2026-11-21 01:05"
