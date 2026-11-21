@@ -1,0 +1,27 @@
+name: Is It Disposable
+description: Is It Disposable detects and blocks disposable email addresses. The
+  free plan includes 250 lookups per month with no card required.
+source_url: https://isposable.email/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  Is It Disposable detects and blocks disposable email addresses.
+
+  ## Key Features
+
+  - Detect disposable email addresses
+  - Block disposable email signups
+  - Free plan: 250 lookups per month
+  - No card required
+
+  ## Pricing
+
+  Free tier (250 lookups/month). Paid plans for higher volumes.
+brand: Is It Disposable
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,62 @@
+name: Dovecot
+description: Dovecot is an open-source IMAP and POP3 server for Unix-like
+  operating systems, written primarily with security in mind. It is released
+  under the GNU GPL v2 license and is designed to be lightweight and easy to set
+  up. Dovecot supports multiple mailbox formats including Maildir and mbox, and
+  integrates with various authentication backends.
+source_url: https://dovecot.org/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - IMAP
+  - POP3
+markdown: >-
+  ## Overview
+
+
+  Dovecot is an open-source IMAP and POP3 server for Unix-like operating
+  systems, written primarily with security in mind.
+
+
+  ## License
+
+
+  Released under the GNU General Public License version 2 (GPLv2).
+
+
+  ## Features
+
+
+  - IMAP and POP3 protocols
+
+  - Multiple mailbox formats (Maildir, mbox, dbox, mdbox)
+
+  - Authentication via PAM, passwd, SQL, LDAP, and other backends
+
+  - TLS/SSL support for encrypted connections
+
+  - Mail storage indexing for performance
+
+  - Virtual mailbox support
+
+  - Quota support
+
+  - Full-text search via Solr and Lucene
+
+
+  ## Repository
+
+
+  Source code available at https://github.com/dovecot/core
+
+
+  ## Pricing
+
+
+  Free and open-source software.
+brand: Dovecot
+brand_logo_url: https://dovecot.org/images/dovecot.svg
+images:
+  - https://dovecot.org/images/dovecot.svg
+updated_at: 2026-11-21 09:09

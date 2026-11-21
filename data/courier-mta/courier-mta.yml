@@ -1,0 +1,42 @@
+name: Courier MTA
+description: Courier MTA is a fast, scalable, enterprise mail/groupware server
+  providing ESMTP, IMAP, POP3, webmail, mailing list, and basic web-based
+  calendaring and scheduling services. It is written in C and released under the
+  GPL-3.0 license.
+source_url: https://www.courier-mta.org/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - SMTP
+  - enterprise
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Courier MTA is a fast, scalable, enterprise mail/groupware server providing
+  ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and
+  scheduling services.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## License
+
+
+  GPL-3.0
+
+
+  ## Source Code
+
+
+  Source code repository available from the project website.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 09:09

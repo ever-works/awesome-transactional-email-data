@@ -1,0 +1,30 @@
+name: SendRaven
+description: SendRaven provides an email API for transactional email and
+  agent-driven conversations, including inbound replies and threads. The free
+  tier includes 3,000 outbound emails per month, unlimited contacts and inbound
+  replies, card required.
+source_url: https://sendraven.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+  - Inbound
+featured: false
+markdown: |-
+  ## Overview
+
+  SendRaven is an email API for transactional email and agent conversations.
+
+  ## Key Features
+
+  - Free tier: 3,000 outbound emails per month
+  - Unlimited contacts and inbound replies
+  - Agent-driven conversations with threads
+  - Card required
+
+  ## Pricing
+
+  Free tier (3,000 outbound emails/month). Paid plans for higher volumes.
+brand: SendRaven
+updated_at: 2026-11-21 09:09

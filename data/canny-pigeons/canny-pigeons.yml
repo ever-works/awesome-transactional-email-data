@@ -1,0 +1,30 @@
+name: Canny Pigeons
+description: Canny Pigeons is a DMARC monitoring platform with DNS drift alerts,
+  IP threat intel, and unlimited users. The first domain is free with no credit
+  card required.
+source_url: https://cannypigeons.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - DMARC
+  - Deliverability
+featured: false
+markdown: |-
+  ## Overview
+
+  Canny Pigeons is a DMARC monitoring platform for email deliverability.
+
+  ## Key Features
+
+  - DMARC monitoring
+  - DNS drift alerts
+  - IP threat intelligence
+  - Unlimited users
+  - First domain free
+  - No credit card required
+
+  ## Pricing
+
+  Free tier (first domain free). Paid plans for additional domains.
+brand: Canny Pigeons
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,58 @@
+name: Zoho Mail
+description: Zoho Mail is an email hosting service offered as part of the Zoho
+  suite. The free plan supports up to 5 users with 5 GB storage per user and 25
+  MB attachment limits, with custom domain support for one domain.
+source_url: https://www.zoho.com/mail/
+category: SMTP Relays
+tags:
+  - Free Plan
+  - Self-Hosted
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Zoho Mail is an email hosting service that provides business email with custom
+  domain support. It is part of the broader Zoho suite of business applications
+  and offers a forever-free plan for small teams.
+
+
+  ## Features
+
+
+  - Free for up to 5 users
+
+  - 5 GB storage per user
+
+  - 25 MB attachment limit
+
+  - One custom domain
+
+  - Webmail access
+
+  - Mobile apps
+
+
+  ## Pricing
+
+
+  Free plan for up to 5 users. Paid plans available for additional users and
+  storage.
+
+
+  ## Deployment
+
+
+  Cloud (Zoho-hosted)
+
+
+  ## Source
+
+
+  https://www.zoho.com/mail/
+brand: Zoho
+brand_logo_url: https://www.zoho.com/mail/zoho-mail-logo.svg
+images:
+  - https://www.zoho.com/mail/images/zoho-mail-hero.png
+updated_at: 2026-11-21 09:09

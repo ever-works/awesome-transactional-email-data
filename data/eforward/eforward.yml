@@ -1,0 +1,28 @@
+name: eForward
+description: eForward provides email forwarding for custom domains. The free
+  plan includes 1 domain, 1 mailbox, 10 aliases (catch-all ones count too),
+  catch-all, and reply/send from your aliases (up to 5 new recipients a day). No
+  credit card required.
+source_url: https://eforward.cc/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Email Forwarding
+featured: false
+markdown: |-
+  ## Overview
+
+  eForward provides email forwarding for custom domains.
+
+  ## Key Features
+
+  - Free plan: 1 domain, 1 mailbox, 10 aliases
+  - Catch-all support
+  - Reply/send from aliases (up to 5 new recipients a day)
+  - No credit card required
+
+  ## Pricing
+
+  Free tier available. Paid plans for more domains/aliases.
+brand: eForward
+updated_at: 2026-11-21 09:09

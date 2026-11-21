@@ -1,0 +1,36 @@
+name: 10minutemail
+description: 10minutemail is a free, temporary email service for testing
+  purposes, providing disposable email addresses that expire after 10 minutes.
+source_url: https://10minutemail.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Testing
+  - Disposable
+featured: false
+markdown: >-
+  ## Overview
+
+
+  10minutemail provides free, temporary email addresses for testing signup flows
+  and other development scenarios.
+
+
+  ## Key Features
+
+
+  - Free temporary email addresses
+
+  - Addresses expire after 10 minutes
+
+  - No registration required
+
+  - Ideal for testing email functionality without creating real accounts
+
+
+  ## Pricing
+
+
+  Completely free.
+brand: 10minutemail
+updated_at: 2026-11-21 09:09

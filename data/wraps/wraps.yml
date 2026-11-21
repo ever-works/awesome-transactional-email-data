@@ -1,0 +1,28 @@
+name: Wraps
+description: Wraps is email infrastructure deployed to your own AWS account
+  (SES), with a dashboard. You pay AWS directly for sending. The free plan
+  covers 1 AWS account, unlimited domains and contacts.
+source_url: https://wraps.so/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Self-Hosted
+  - AWS SES
+featured: false
+markdown: |-
+  ## Overview
+
+  Wraps deploys email infrastructure to your own AWS account using SES.
+
+  ## Key Features
+
+  - Deployed to your own AWS account (SES)
+  - Dashboard included
+  - Pay AWS directly for sending
+  - Free plan: 1 AWS account, unlimited domains and contacts
+
+  ## Pricing
+
+  Free tier (1 AWS account). Pay AWS directly for sending.
+brand: Wraps
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,26 @@
+name: Conduit
+description: Conduit turns incoming emails into webhooks to trigger your API
+  from emails. The service is completely free.
+source_url: https://conduit.run/
+category: Inbound Email Parsing
+tags:
+  - Free Plan
+  - Inbound
+  - Webhooks
+featured: false
+markdown: |-
+  ## Overview
+
+  Conduit converts incoming emails into webhooks to trigger APIs.
+
+  ## Key Features
+
+  - Turn incoming emails into webhooks
+  - Trigger APIs from emails
+  - Completely free service
+
+  ## Pricing
+
+  Completely free.
+brand: Conduit
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,28 @@
+name: Inboxes App
+description: Inboxes App lets you create up to 3 temporary emails a day and
+  delete them when done from a Chrome extension, perfect for testing signup
+  flows.
+source_url: https://inboxes.app/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Disposable
+  - Testing
+featured: false
+markdown: |-
+  ## Overview
+
+  Inboxes App provides temporary email addresses for testing signup flows.
+
+  ## Key Features
+
+  - Create up to 3 temporary emails per day
+  - Delete emails when done
+  - Chrome extension
+  - Ideal for testing signup flows
+
+  ## Pricing
+
+  Completely free.
+brand: Inboxes App
+updated_at: 2026-11-21 09:09

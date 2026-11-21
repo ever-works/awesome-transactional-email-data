@@ -1,0 +1,26 @@
+name: Temp-Mail.org
+description: Temp-Mail.org provides temporary/disposable mail utilizing a range
+  of domains. Email addresses refresh every time the page is reloaded. It is
+  entirely free and does not include any pricing for their services.
+source_url: https://temp-mail.org/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  Temp-Mail.org provides temporary/disposable email addresses.
+
+  ## Key Features
+
+  - Range of domains
+  - Email address refreshes on page reload
+  - Entirely free
+
+  ## Pricing
+
+  Completely free.
+brand: Temp-Mail.org
+updated_at: 2026-11-21 09:09

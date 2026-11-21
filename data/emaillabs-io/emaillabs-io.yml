@@ -1,0 +1,25 @@
+name: EmailLabs.io
+description: EmailLabs.io lets you send up to 9,000 emails for free every month,
+  up to 300 emails daily.
+source_url: https://emaillabs.io/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  EmailLabs.io is a transactional email sending service.
+
+  ## Key Features
+
+  - Send up to 9,000 emails for free every month
+  - Up to 300 emails daily
+
+  ## Pricing
+
+  Free tier (9,000 emails/month). Paid plans for higher volumes.
+brand: EmailLabs.io
+updated_at: 2026-11-21 09:09

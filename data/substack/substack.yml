@@ -1,0 +1,24 @@
+name: Substack
+description: Substack is an unlimited free newsletter service. You start paying
+  only when you charge for it.
+source_url: https://substack.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Newsletter
+featured: false
+markdown: |-
+  ## Overview
+
+  Substack is a newsletter platform for writers and publishers.
+
+  ## Key Features
+
+  - Unlimited free newsletter service
+  - Start paying only when you charge subscribers
+
+  ## Pricing
+
+  Free to use; percentage fee when you charge for subscriptions.
+brand: Substack
+updated_at: 2026-11-21 09:09

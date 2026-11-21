@@ -1,0 +1,31 @@
+name: Haraka
+description: Haraka is a fast, highly extensible, and event driven SMTP server
+  written in Node.js. It is released under the MIT license.
+source_url: https://haraka.github.io/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - SMTP
+  - Node.js
+featured: false
+markdown: |-
+  ## Overview
+
+  Haraka is a fast, highly extensible, and event driven SMTP server.
+
+  ## Deployment
+
+  Self-hosted.
+
+  ## License
+
+  MIT
+
+  ## Source Code
+
+  https://github.com/haraka/Haraka
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 09:09

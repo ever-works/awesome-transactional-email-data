@@ -1,0 +1,28 @@
+name: Reloop
+description: Reloop is a transactional email API and SMTP for developers. The
+  free plan includes 3,000 emails per month, 200 emails per day, one custom
+  domain, and one agent inbox.
+source_url: https://reloop.io/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - SMTP
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Reloop is a transactional email API and SMTP service.
+
+  ## Key Features
+
+  - Free plan: 3,000 emails per month, 200 emails per day
+  - One custom domain
+  - One agent inbox
+
+  ## Pricing
+
+  Free tier available. Paid plans for higher volumes.
+brand: Reloop
+updated_at: 2026-11-21 09:09

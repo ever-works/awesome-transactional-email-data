@@ -1,0 +1,28 @@
+name: SMTPfast
+description: SMTPfast is a simple email API for developers with a free tier that
+  includes 3,000 emails per month, 1 domain, and 1,000 contacts, with no credit
+  card required.
+source_url: https://smtpfast.io/
+category: SMTP Relays
+tags:
+  - Free Plan
+  - SMTP
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  SMTPfast is a simple email API for developers.
+
+  ## Key Features
+
+  - Free tier: 3,000 emails per month
+  - 1 domain
+  - 1,000 contacts
+  - No credit card required
+
+  ## Pricing
+
+  Free tier available. Paid plans for higher volumes.
+brand: SMTPfast
+updated_at: 2026-11-21 09:09

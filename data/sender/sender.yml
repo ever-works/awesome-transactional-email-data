@@ -1,0 +1,23 @@
+name: Sender
+description: Sender offers up to 15,000 emails per month and up to 2,500 subscribers free.
+source_url: https://sender.net/
+category: Email APIs
+tags:
+  - Free Plan
+  - Newsletter
+featured: false
+markdown: |-
+  ## Overview
+
+  Sender is an email marketing and newsletter service.
+
+  ## Key Features
+
+  - Up to 15,000 emails per month free
+  - Up to 2,500 subscribers free
+
+  ## Pricing
+
+  Free tier (15,000 emails/month, 2,500 subscribers). Paid plans for more.
+brand: Sender
+updated_at: 2026-11-21 09:09

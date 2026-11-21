@@ -1,0 +1,23 @@
+name: Sendpulse
+description: Sendpulse offers 500 subscribers per month and 15,000 emails per month free.
+source_url: https://sendpulse.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Newsletter
+featured: false
+markdown: |-
+  ## Overview
+
+  Sendpulse is an email marketing and multi-channel communication service.
+
+  ## Key Features
+
+  - 500 subscribers per month free
+  - 15,000 emails per month free
+
+  ## Pricing
+
+  Free tier (500 subscribers, 15,000 emails/month). Paid plans for more.
+brand: SendPulse
+updated_at: 2026-11-21 09:09

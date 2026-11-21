@@ -1,0 +1,25 @@
+name: Parsio.io
+description: Parsio.io is a free email parser that forwards email, extracts
+  data, and sends it to your server.
+source_url: https://parsio.io/
+category: Inbound Email Parsing
+tags:
+  - Free Plan
+  - Email Parsing
+featured: false
+markdown: |-
+  ## Overview
+
+  Parsio.io parses incoming emails and extracts data.
+
+  ## Key Features
+
+  - Forward email and extract data
+  - Send extracted data to your server
+  - Free email parser
+
+  ## Pricing
+
+  Completely free.
+brand: Parsio
+updated_at: 2026-11-21 09:09

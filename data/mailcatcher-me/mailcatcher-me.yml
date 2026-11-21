@@ -1,0 +1,34 @@
+name: mailcatcher.me
+description: mailcatcher.me catches mail and serves it through a web interface,
+  useful for testing email during development.
+source_url: https://mailcatcher.me/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Testing
+  - SMTP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  mailcatcher.me catches email and serves it through a web interface for
+  testing.
+
+
+  ## Key Features
+
+
+  - Catches mail
+
+  - Serves through a web interface
+
+  - For development testing
+
+
+  ## Pricing
+
+
+  Completely free.
+brand: mailcatcher.me
+updated_at: 2026-11-21 09:09

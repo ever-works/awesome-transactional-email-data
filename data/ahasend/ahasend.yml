@@ -1,0 +1,36 @@
+name: AhaSend
+description: AhaSend is a transactional email service offering a free plan of
+  1,000 emails per month with unlimited domains, team members, webhooks, and
+  message routes.
+source_url: https://ahasend.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AhaSend is a transactional email service for developers sending
+  application-generated email.
+
+
+  ## Key Features
+
+
+  - Free plan: 1,000 emails per month
+
+  - Unlimited domains, team members, webhooks, and message routes in the free
+  plan
+
+  - Transactional email sending via API
+
+
+  ## Pricing
+
+
+  Free tier available (1,000 emails/month). Paid plans for higher volumes.
+brand: AhaSend
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,25 @@
+name: UserCheck
+description: UserCheck prevents users from signing up with temporary email
+  addresses, offering 120 requests per hour (~86,400 per month).
+source_url: https://usercheck.io/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  UserCheck blocks disposable email signups.
+
+  ## Key Features
+
+  - Prevent signups with temporary email addresses
+  - 120 requests per hour (~86,400 per month)
+
+  ## Pricing
+
+  Free tier (120 requests/hour). Paid plans for higher volumes.
+brand: UserCheck
+updated_at: 2026-11-21 09:09

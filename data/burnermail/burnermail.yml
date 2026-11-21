@@ -1,0 +1,26 @@
+name: Burnermail
+description: Burnermail offers free burner email addresses with 5 burner email
+  addresses, 1 mailbox, and 7-day mailbox history.
+source_url: https://burnermail.io/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Disposable
+  - Privacy
+featured: false
+markdown: |-
+  ## Overview
+
+  Burnermail provides disposable burner email addresses for privacy.
+
+  ## Key Features
+
+  - Free 5 burner email addresses
+  - 1 mailbox
+  - 7-day mailbox history
+
+  ## Pricing
+
+  Completely free.
+brand: Burnermail
+updated_at: 2026-11-21 09:09

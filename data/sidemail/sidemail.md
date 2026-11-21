@@ -1,0 +1,19 @@
+## Overview
+
+Sidemail is an all-in-one email platform for SaaS businesses, built on AWS infrastructure. It provides transactional email sending with a visual drag-and-drop editor, and also supports product emails, newsletters, and onboarding sequences.
+
+## Features
+
+- Built on AWS SES infrastructure
+- Visual drag-and-drop email editor
+- Transactional email sending
+- Product emails, newsletters, and onboarding sequences
+- All-in-one email platform for SaaS
+
+## Pricing
+
+Pricing details not specified in source.
+
+## Notes
+
+- Positioned as an alternative to Waypoint for SaaS businesses

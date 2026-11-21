@@ -1,0 +1,26 @@
+name: DNSExit
+description: DNSExit offers up to 2 email addresses under your domain for free
+  with 100MB of storage space, including IMAP, POP3, SMTP, SPF/DKIM support.
+source_url: https://dnsexit.com/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Email Hosting
+  - SMTP
+featured: false
+markdown: |-
+  ## Overview
+
+  DNSExit provides free email hosting under custom domains.
+
+  ## Key Features
+
+  - Up to 2 email addresses under your domain
+  - 100MB of storage space
+  - IMAP, POP3, SMTP, SPF/DKIM support
+
+  ## Pricing
+
+  Free tier (2 email addresses, 100MB storage). Paid plans for more.
+brand: DNSExit
+updated_at: 2026-11-21 09:09

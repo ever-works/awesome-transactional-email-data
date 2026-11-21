@@ -1,0 +1,35 @@
+name: Antideo
+description: Antideo provides an email verification, IP, and phone number
+  validation API with 10 free API requests per hour in the free tier. No credit
+  card is required.
+source_url: https://antideo.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Antideo offers email verification and validation APIs.
+
+
+  ## Key Features
+
+
+  - 10 free API requests per hour for email verification, IP, and phone number
+  validation
+
+  - No credit card required
+
+  - REST API
+
+
+  ## Pricing
+
+
+  Free tier available (10 requests/hour). Paid plans for higher volumes.
+brand: Antideo
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,22 @@
+name: ImprovMX
+description: ImprovMX provides free email forwarding.
+source_url: https://improvmx.com/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Email Forwarding
+featured: false
+markdown: |-
+  ## Overview
+
+  ImprovMX offers free email forwarding services.
+
+  ## Key Features
+
+  - Free email forwarding
+
+  ## Pricing
+
+  Completely free.
+brand: ImprovMX
+updated_at: 2026-11-21 09:09

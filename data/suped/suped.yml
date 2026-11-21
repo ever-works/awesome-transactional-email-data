@@ -1,0 +1,26 @@
+name: Suped
+description: Suped is a user-friendly DMARC monitoring platform. The free plan
+  covers one domain with up to 1,000 emails per month.
+source_url: https://suped.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - DMARC
+  - Deliverability
+featured: false
+markdown: |-
+  ## Overview
+
+  Suped is a DMARC monitoring platform.
+
+  ## Key Features
+
+  - DMARC monitoring
+  - Free plan covers one domain
+  - Up to 1,000 emails per month
+
+  ## Pricing
+
+  Free tier (1 domain, 1,000 emails/month). Paid plans for more.
+brand: Suped
+updated_at: 2026-11-21 09:09

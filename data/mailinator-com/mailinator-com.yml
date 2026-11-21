@@ -1,0 +1,25 @@
+name: mailinator.com
+description: mailinator.com is a free, public email system where you can use any
+  inbox you want.
+source_url: https://www.mailinator.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Disposable
+  - Public
+featured: false
+markdown: |-
+  ## Overview
+
+  mailinator.com provides free public email inboxes.
+
+  ## Key Features
+
+  - Free public email system
+  - Use any inbox you want
+
+  ## Pricing
+
+  Completely free.
+brand: mailinator.com
+updated_at: 2026-11-21 09:09

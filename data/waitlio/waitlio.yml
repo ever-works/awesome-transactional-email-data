@@ -1,0 +1,29 @@
+name: Waitlio
+description: Waitlio is waitlist management software for product launches. It
+  lets you create branded waitlist pages, collect and verify email subscribers,
+  manage signups with tags and analytics. The free plan includes 100 subscribers
+  per month, 1 waitlist, and API access.
+source_url: https://waitlio.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Waitlist
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Waitlio is waitlist management software for product launches.
+
+  ## Key Features
+
+  - Branded waitlist pages
+  - Collect and verify email subscribers
+  - Manage signups with tags and analytics
+  - Free plan: 100 subscribers per month, 1 waitlist, API access
+
+  ## Pricing
+
+  Free tier (100 subscribers/month). Paid plans for more.
+brand: Waitlio
+updated_at: 2026-11-21 09:09

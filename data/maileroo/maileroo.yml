@@ -1,0 +1,30 @@
+name: Maileroo
+description: Maileroo is an SMTP relay and email API for developers offering
+  5,000 emails per month, unlimited domains, free email verification, blacklist
+  monitoring, mail tester, and more.
+source_url: https://maileroo.com/
+category: SMTP Relays
+tags:
+  - Free Plan
+  - SMTP
+  - API
+  - Transactional
+featured: false
+markdown: |-
+  ## Overview
+
+  Maileroo is an SMTP relay and email API for developers.
+
+  ## Key Features
+
+  - 5,000 emails per month free
+  - Unlimited domains
+  - Free email verification
+  - Blacklist monitoring
+  - Mail tester
+
+  ## Pricing
+
+  Free tier (5,000 emails/month). Paid plans for higher volumes.
+brand: Maileroo
+updated_at: 2026-11-21 09:09

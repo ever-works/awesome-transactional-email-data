@@ -1,0 +1,24 @@
+name: Alias Email
+description: Alias Email provides free email alias addresses, offering 10 Bump
+  email addresses and one custom domain.
+source_url: https://aliasemail.com/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Email Forwarding
+featured: false
+markdown: |-
+  ## Overview
+
+  Alias Email offers free email alias addresses for privacy and forwarding.
+
+  ## Key Features
+
+  - Free 10 Bump email addresses
+  - One custom domain included
+
+  ## Pricing
+
+  Completely free.
+brand: Alias Email
+updated_at: 2026-11-21 09:09

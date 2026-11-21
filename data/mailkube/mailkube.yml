@@ -1,0 +1,25 @@
+name: Mailkube
+description: Mailkube is email infrastructure for developers, offering 4,000
+  emails per month free with unlimited domains included.
+source_url: https://mailkube.io/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Mailkube is email infrastructure for developers.
+
+  ## Key Features
+
+  - 4,000 emails per month free
+  - Unlimited domains included
+
+  ## Pricing
+
+  Free tier (4,000 emails/month). Paid plans for higher volumes.
+brand: Mailkube
+updated_at: 2026-11-21 09:09

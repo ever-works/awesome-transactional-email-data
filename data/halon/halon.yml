@@ -1,0 +1,51 @@
+name: Halon
+description: Halon is a commercial SMTP server and email infrastructure platform
+  designed for high-volume email sending. It provides a programmable scripting
+  engine for custom email processing, routing, and filtering. Halon is developed
+  by Halon Security AB and targets enterprise and service provider use cases.
+source_url: https://halon.io/
+category: SMTP Relays
+tags:
+  - paid
+  - enterprise
+  - API
+  - self-hosted
+markdown: >-
+  ## Overview
+
+
+  Halon is a commercial SMTP server and email infrastructure platform designed
+  for high-volume email sending.
+
+
+  ## Features
+
+
+  - Programmable scripting engine for email processing
+
+  - Custom routing and filtering
+
+  - DANE support for encrypted SMTP connections
+
+  - DKIM signing and verification
+
+  - Spam filtering integration
+
+  - High-performance email delivery
+
+
+  ## Pricing
+
+
+  Commercial product with paid licensing. Contact vendor for pricing details.
+
+
+  ## Deployment
+
+
+  Self-hosted software.
+brand: Halon Security AB
+brand_logo_url: https://halon.io/assets/images/logo.svg
+images:
+  - https://halon.io/assets/images/logo.svg
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,33 @@
+name: turboSMTP
+description: turboSMTP is an SMTP relay service, free for 200 emails per day or
+  6,000 emails per month, free forever with no time limit or expiry. It includes
+  web API, SPF/DKIM authentication, suppression management, 1 sending domain, 2
+  API keys, 2FA, ticket and chat support, and is GDPR compliant.
+source_url: https://www.turbosmtp.com/
+category: SMTP Relays
+tags:
+  - Free Plan
+  - SMTP
+  - Transactional
+featured: false
+markdown: |-
+  ## Overview
+
+  turboSMTP is an SMTP relay service.
+
+  ## Key Features
+
+  - Free: 200 emails per day or 6,000 emails per month
+  - Free forever, no time limit or expiry
+  - Web API
+  - SPF/DKIM authentication
+  - Suppression management
+  - 1 sending domain, 2 API keys
+  - 2FA, ticket and chat support
+  - GDPR compliant
+
+  ## Pricing
+
+  Free tier (200 emails/day or 6,000/month). Paid plans for higher volumes.
+brand: turboSMTP
+updated_at: 2026-11-21 09:09

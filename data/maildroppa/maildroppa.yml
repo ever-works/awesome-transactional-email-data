@@ -1,0 +1,26 @@
+name: Maildroppa
+description: Maildroppa offers up to 100 subscribers and unlimited emails as
+  well as automations for free.
+source_url: https://maildroppa.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Newsletter
+  - Automation
+featured: false
+markdown: |-
+  ## Overview
+
+  Maildroppa is a newsletter and email marketing service.
+
+  ## Key Features
+
+  - Up to 100 subscribers free
+  - Unlimited emails
+  - Automations included
+
+  ## Pricing
+
+  Free tier (100 subscribers, unlimited emails). Paid plans for more.
+brand: Maildroppa
+updated_at: 2026-11-21 09:09

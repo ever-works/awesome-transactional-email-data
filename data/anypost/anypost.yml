@@ -1,0 +1,26 @@
+name: Anypost
+description: Anypost is a transactional and broadcast email API offering 3,000
+  emails per month free, then as low as 8¢ per 1,000 emails.
+source_url: https://anypost.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Anypost is a transactional and broadcast email API service for developers.
+
+  ## Key Features
+
+  - 3,000 emails per month free
+  - Pricing as low as 8¢ per 1,000 emails after free tier
+  - Transactional and broadcast email support
+
+  ## Pricing
+
+  Free tier (3,000 emails/month). Paid plans starting at 8¢ per 1,000 emails.
+brand: Anypost
+updated_at: 2026-11-21 09:09

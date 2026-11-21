@@ -1,0 +1,23 @@
+name: MailerLite.com
+description: MailerLite offers 1,000 subscribers per month and 12,000 emails per month free.
+source_url: https://www.mailerlite.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Newsletter
+featured: false
+markdown: |-
+  ## Overview
+
+  MailerLite is an email marketing and newsletter service.
+
+  ## Key Features
+
+  - 1,000 subscribers per month free
+  - 12,000 emails per month free
+
+  ## Pricing
+
+  Free tier (1,000 subscribers, 12,000 emails/month). Paid plans for more.
+brand: MailerLite
+updated_at: 2026-11-21 09:09

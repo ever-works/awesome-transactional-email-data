@@ -1,0 +1,28 @@
+name: Verifalia
+description: Verifalia is a real-time email verification API with mailbox
+  confirmation and disposable email address detection, offering 25 free email
+  verifications per day.
+source_url: https://verifalia.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Verifalia provides real-time email verification via API.
+
+  ## Key Features
+
+  - Real-time email verification
+  - Mailbox confirmation
+  - Disposable email address detector
+  - 25 free email verifications per day
+
+  ## Pricing
+
+  Free tier (25 verifications/day). Paid plans for higher volumes.
+brand: Verifalia
+updated_at: 2026-11-21 09:09

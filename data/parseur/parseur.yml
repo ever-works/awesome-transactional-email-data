@@ -1,0 +1,40 @@
+name: Parseur
+description: Parseur is an AI-powered data extraction API that extracts data
+  from PDFs and emails. It offers full API access and allows users to extract
+  structured data from unstructured documents and email content. The free plan
+  includes 20 free pages per month.
+source_url: https://parseur.com
+category: Inbound Email Parsing
+tags:
+  - API
+  - AI-Powered
+  - Free Plan
+  - Email Parsing
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Parseur is an AI-powered data extraction service that extracts data from PDFs
+  and emails. It provides full API access for automated data extraction.
+
+
+  ## Features
+
+
+  - Extract data from PDFs
+
+  - Extract data from emails
+
+  - AI-powered data extraction
+
+  - Full API access
+
+
+  ## Pricing
+
+
+  Free plan includes 20 free pages per month. Paid plans available for higher
+  volumes.
+brand: Parseur
+updated_at: 2026-11-21 09:09

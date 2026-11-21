@@ -1,0 +1,31 @@
+name: Email Spam Tester
+description: Email Spam Tester tests the technical part, content, link
+  authority, and overall score of your email, and where it will land (inbox,
+  spam, or promotions). It includes inbox tests on Gmail, GMX, Yahoo, AOL, and
+  other providers. Free to use with no card or registration required, and works
+  via API and MCP.
+source_url: https://emailspamtester.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Testing
+  - Deliverability
+featured: false
+markdown: |-
+  ## Overview
+
+  Email Spam Tester evaluates email deliverability and spam score.
+
+  ## Key Features
+
+  - Tests technical setup, content, link authority, and overall score
+  - Inbox placement tests (inbox, spam, or promotions)
+  - Tests on Gmail, GMX, Yahoo, AOL, and other providers
+  - Free to use, no card or registration required
+  - Works via API and MCP
+
+  ## Pricing
+
+  Completely free.
+brand: Email Spam Tester
+updated_at: 2026-11-21 09:09

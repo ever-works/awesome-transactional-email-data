@@ -1,0 +1,39 @@
+name: DragonFly MTA
+description: DragonFly MTA is a small mail transfer agent for home and office
+  use. It works on Linux and FreeBSD and is written in C under the BSD-3-Clause
+  license.
+source_url: https://dragonfly-mta.org/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - SMTP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  DragonFly MTA is a small MTA for home and office use. It works on Linux and
+  FreeBSD.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## License
+
+
+  BSD-3-Clause
+
+
+  ## Source Code
+
+
+  Source code repository available from the project website.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 09:09

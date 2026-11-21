@@ -1,0 +1,26 @@
+name: Imitate Email
+description: Imitate Email is a sandbox email server for testing email
+  functionality across build/QA and CI/CD. Free accounts get 15 emails a day
+  forever.
+source_url: https://imitate.email/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Testing
+  - SMTP
+featured: false
+markdown: |-
+  ## Overview
+
+  Imitate Email is a sandbox email server for testing.
+
+  ## Key Features
+
+  - Sandbox email server for build/QA and CI/CD testing
+  - Free accounts: 15 emails a day forever
+
+  ## Pricing
+
+  Completely free.
+brand: Imitate Email
+updated_at: 2026-11-21 09:09

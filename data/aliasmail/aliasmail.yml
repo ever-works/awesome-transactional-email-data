@@ -1,0 +1,38 @@
+name: AliasMail
+description: AliasMail is a privacy-preserving email forwarding and alias
+  service with HMAC-SHA256 signed webhooks and custom alias handles. The free
+  tier includes permanent email forwarding, custom aliases, and webhook
+  integrations with no credit card required.
+source_url: https://aliasmail.com/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Privacy
+  - Email Forwarding
+featured: false
+markdown: >-
+  ## Overview
+
+
+  AliasMail provides privacy-preserving email forwarding and alias services.
+
+
+  ## Key Features
+
+
+  - HMAC-SHA256 signed webhooks
+
+  - Custom alias handles
+
+  - Free tier includes permanent email forwarding, custom aliases, and webhook
+  integrations
+
+  - No credit card required
+
+
+  ## Pricing
+
+
+  Free tier available. Paid plans for additional features.
+brand: AliasMail
+updated_at: 2026-11-21 09:09

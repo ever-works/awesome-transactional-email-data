@@ -1,0 +1,37 @@
+name: SendStreak
+description: SendStreak is an email framework as a service that adds templates,
+  automations, history, etc. to your own SMTP server (e.g., AWS, Maileroo,
+  Gmail). It is free up to 100 emails per day with no time limit.
+source_url: https://sendstreak.com/
+category: SMTP Relays
+tags:
+  - Free Plan
+  - SMTP
+  - Templates
+featured: false
+markdown: >-
+  ## Overview
+
+
+  SendStreak is an email framework as a service that enhances your own SMTP
+  server.
+
+
+  ## Key Features
+
+
+  - Adds templates, automations, and history to your SMTP server
+
+  - Works with AWS, Maileroo, Gmail, and other SMTP servers
+
+  - Free up to 100 emails per day
+
+  - No time limit
+
+
+  ## Pricing
+
+
+  Free tier (100 emails/day). Paid plans for higher volumes.
+brand: SendStreak
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,29 @@
+name: Groundmail
+description: Groundmail is a transactional email API and SMTP relay offering
+  3,000 emails per month free (100/day), three domains, three agent mailboxes,
+  and inbound email included.
+source_url: https://groundmail.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - SMTP
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  Groundmail is a transactional email API and SMTP relay.
+
+  ## Key Features
+
+  - 3,000 emails per month free (100/day)
+  - Three domains
+  - Three agent mailboxes
+  - Inbound email included
+
+  ## Pricing
+
+  Free tier (3,000 emails/month). Paid plans for higher volumes.
+brand: Groundmail
+updated_at: 2026-11-21 09:09

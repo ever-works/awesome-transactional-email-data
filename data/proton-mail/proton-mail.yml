@@ -1,0 +1,26 @@
+name: Proton Mail
+description: Proton Mail is a free secure email account service provider with
+  built-in end-to-end encryption. It offers 1GB of storage free.
+source_url: https://proton.me/mail
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Secure
+  - Encryption
+featured: false
+markdown: |-
+  ## Overview
+
+  Proton Mail provides secure, encrypted email accounts.
+
+  ## Key Features
+
+  - End-to-end encryption
+  - Free: 1GB storage
+  - Secure email account service
+
+  ## Pricing
+
+  Free tier (1GB storage). Paid plans for more storage and features.
+brand: Proton
+updated_at: 2026-11-21 09:09

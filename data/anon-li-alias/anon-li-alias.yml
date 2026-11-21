@@ -1,0 +1,30 @@
+name: anon.li Alias
+description: anon.li Alias is an open-source, anonymous email alias and
+  forwarding solution with PGP encryption and reply capability. The free plan
+  includes 10 random aliases and 1 custom alias with a developer API and CLI.
+source_url: https://anon.li/
+category: Self-Hosted Mail Servers
+tags:
+  - Open Source
+  - Free Plan
+  - Privacy
+  - Email Forwarding
+featured: false
+markdown: |-
+  ## Overview
+
+  anon.li Alias is an open-source anonymous email alias and forwarding solution.
+
+  ## Key Features
+
+  - PGP encryption
+  - Reply capability
+  - Free plan: 10 random aliases and 1 custom alias
+  - Developer API and CLI available
+  - Open-source
+
+  ## Pricing
+
+  Free tier available (10 random + 1 custom alias).
+brand: anon.li
+updated_at: 2026-11-21 09:09

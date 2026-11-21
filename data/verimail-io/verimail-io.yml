@@ -1,0 +1,25 @@
+name: verimail.io
+description: verimail.io is a bulk and API email verification service offering
+  100 free verifications per month.
+source_url: https://verimail.io/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  verimail.io provides bulk and API email verification.
+
+  ## Key Features
+
+  - Bulk and API email verification
+  - 100 free verifications per month
+
+  ## Pricing
+
+  Free tier (100 verifications/month). Paid plans for higher volumes.
+brand: verimail.io
+updated_at: 2026-11-21 09:09

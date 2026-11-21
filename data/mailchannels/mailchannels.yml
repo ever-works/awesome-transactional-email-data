@@ -1,0 +1,25 @@
+name: mailchannels.com
+description: mailchannels.com provides an email API with REST API and SMTP
+  integrations, free for up to 3,000 emails per month.
+source_url: https://www.mailchannels.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - API
+  - SMTP
+featured: false
+markdown: |-
+  ## Overview
+
+  MailChannels provides email API and SMTP relay services.
+
+  ## Key Features
+
+  - Email API with REST API and SMTP integrations
+  - Free for up to 3,000 emails per month
+
+  ## Pricing
+
+  Free tier (3,000 emails/month). Paid plans for higher volumes.
+brand: MailChannels
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,53 @@
+name: Waypoint
+description: Transactional email app built on AWS SES infrastructure with a
+  visual drag-and-drop editor. Designed for SaaS businesses needing reliable
+  email delivery without coding. Offers unlimited teammates on all plans and
+  priority support on highest tiers.
+source_url: https://waypoint.io/
+category: Email APIs
+tags:
+  - api
+  - aws-ses
+  - saas
+  - paid
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Waypoint is a transactional email application built on AWS SES infrastructure.
+  It provides a visual email editor for sending transactional emails without
+  writing code, targeted at SaaS businesses.
+
+
+  ## Features
+
+
+  - Built on AWS SES infrastructure for reliability
+
+  - Visual drag-and-drop email editor
+
+  - Pre-built templates (e.g., "Download ready", "Here's your OTP")
+
+  - Unlimited team members on all plans
+
+  - Knowledge base for self-service setup
+
+  - No coding required for email creation and sending
+
+
+  ## Pricing
+
+
+  Free for test emails only. Paid plans begin at $20/month for 10,000 emails.
+  Priority support available on highest tier plans only.
+
+
+  ## Notes
+
+
+  - Founded in 2023; relatively young platform
+
+  - Developer assistance recommended for initial setup
+brand: Waypoint
+updated_at: 2026-11-21 09:09

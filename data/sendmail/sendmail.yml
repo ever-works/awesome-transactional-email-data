@@ -1,0 +1,31 @@
+name: Sendmail
+description: Sendmail is a message transfer agent (MTA) originally developed at
+  the University of California, Berkeley. It is written in C and released under
+  the Sendmail license.
+source_url: https://sendmail.org/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - SMTP
+featured: false
+markdown: |-
+  ## Overview
+
+  Sendmail is a message transfer agent (MTA).
+
+  ## Deployment
+
+  Self-hosted.
+
+  ## License
+
+  Sendmail
+
+  ## Source Code
+
+  Source code repository available from the project website.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 09:09

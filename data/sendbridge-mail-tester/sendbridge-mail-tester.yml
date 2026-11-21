@@ -1,0 +1,31 @@
+name: SendBridge Mail Tester
+description: SendBridge Mail Tester is a free email deliverability test with no
+  signup. It generates a unique inbox address, then analyzes SPF, DKIM, DMARC,
+  Rspamd spam score, 23+ RBL blacklists, reverse DNS, and content quality.
+  Unlimited tests with results in seconds and shareable report pages.
+source_url: https://sendbridge.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Testing
+  - Deliverability
+featured: false
+markdown: |-
+  ## Overview
+
+  SendBridge Mail Tester provides free email deliverability testing.
+
+  ## Key Features
+
+  - Free email deliverability test, no signup
+  - Generates unique inbox address
+  - Analyzes SPF, DKIM, DMARC, Rspamd spam score
+  - Checks 23+ RBL blacklists, reverse DNS, content quality
+  - Unlimited tests, results in seconds
+  - Shareable report pages
+
+  ## Pricing
+
+  Completely free.
+brand: SendBridge
+updated_at: 2026-11-21 09:09

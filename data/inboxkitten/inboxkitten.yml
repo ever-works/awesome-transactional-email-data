@@ -1,0 +1,28 @@
+name: inboxkitten.com
+description: inboxkitten.com is a free temporary/disposable email inbox with up
+  to 3-day email auto-deletes. It is open source and can be self-hosted.
+source_url: https://inboxkitten.com/
+category: Deliverability & Testing
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  inboxkitten.com is a free temporary/disposable email inbox.
+
+  ## Key Features
+
+  - Free temporary/disposable email inbox
+  - Up to 3-day email auto-deletes
+  - Open source
+  - Can be self-hosted
+
+  ## Pricing
+
+  Completely free.
+brand: inboxkitten.com
+updated_at: 2026-11-21 09:09

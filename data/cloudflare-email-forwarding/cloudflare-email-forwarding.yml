@@ -1,0 +1,56 @@
+name: Cloudflare Email Forwarding
+description: Cloudflare Email Forwarding is a free email forwarding service that
+  allows users to create custom email addresses on their domain and forward them
+  to existing email inboxes. It includes spam filtering and is available with
+  Cloudflare's free DNS plan.
+source_url: https://www.cloudflare.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - API
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Cloudflare Email Forwarding is a free email forwarding service integrated with
+  Cloudflare's DNS and security offerings. It enables users to create custom
+  email addresses on their own domain and forward messages to existing email
+  accounts.
+
+
+  ## Features
+
+
+  - Free email forwarding with custom domains
+
+  - Spam filtering
+
+  - Unlimited domains
+
+  - Free SSL
+
+  - DNS management included
+
+
+  ## Pricing
+
+
+  Free with Cloudflare's free DNS plan.
+
+
+  ## Deployment
+
+
+  Cloud (Cloudflare)
+
+
+  ## Source
+
+
+  https://www.cloudflare.com/
+brand: Cloudflare
+brand_logo_url: https://www.cloudflare.com/img/logo-cloudflare-shadow.svg
+images:
+  - https://www.cloudflare.com/img/logo-cloudflare-shadow.svg
+updated_at: 2026-11-21 09:09

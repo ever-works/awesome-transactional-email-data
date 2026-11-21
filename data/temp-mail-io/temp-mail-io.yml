@@ -1,0 +1,25 @@
+name: temp-mail.io
+description: temp-mail.io is a free disposable temporary email service with
+  multiple emails at once and forwarding.
+source_url: https://temp-mail.io/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  temp-mail.io provides free disposable temporary email addresses.
+
+  ## Key Features
+
+  - Multiple emails at once
+  - Forwarding available
+  - Disposable email service
+
+  ## Pricing
+
+  Completely free.
+brand: temp-mail.io
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,32 @@
+name: SimpleLogin
+description: SimpleLogin is an open-source, self-hostable email alias and
+  forwarding solution. The free plan includes 10 aliases, unlimited bandwidth,
+  and unlimited reply/send. Free for educational staff (student, researcher,
+  etc.).
+source_url: https://simplelogin.io/
+category: Self-Hosted Mail Servers
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - Email Forwarding
+  - Privacy
+featured: false
+markdown: |-
+  ## Overview
+
+  SimpleLogin is an open-source email alias and forwarding solution.
+
+  ## Key Features
+
+  - Open-source and self-hostable
+  - Free plan: 10 aliases
+  - Unlimited bandwidth
+  - Unlimited reply/send
+  - Free for educational staff
+
+  ## Pricing
+
+  Free tier available. Paid plans for more aliases and features.
+brand: SimpleLogin
+updated_at: 2026-11-21 09:09

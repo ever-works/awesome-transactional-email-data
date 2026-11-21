@@ -1,0 +1,25 @@
+name: dkimvalidator.com
+description: dkimvalidator.com tests whether an email's DNS/SPF/DKIM/DMARC
+  settings are correct. It is a free service by roundsphere.com.
+source_url: https://dkimvalidator.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Deliverability
+  - Testing
+featured: false
+markdown: |-
+  ## Overview
+
+  dkimvalidator.com is a free service to test email DNS/SPF/DKIM/DMARC settings.
+
+  ## Key Features
+
+  - Test DNS/SPF/DKIM/DMARC settings
+  - Free service by roundsphere.com
+
+  ## Pricing
+
+  Completely free.
+brand: dkimvalidator.com
+updated_at: 2026-11-21 09:09

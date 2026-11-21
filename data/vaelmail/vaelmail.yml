@@ -1,0 +1,31 @@
+name: VaelMail
+description: VaelMail is a privacy-first webmail with deterministic 16-digit
+  account keys and zero phone verification. The free tier includes 50 MB
+  receive-only mailbox storage, unlimited subaddressing, and persistent @vael.pw
+  aliases with no credit card required.
+source_url: https://vael.pw/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Privacy
+  - Webmail
+featured: false
+markdown: |-
+  ## Overview
+
+  VaelMail is a privacy-first webmail service.
+
+  ## Key Features
+
+  - Deterministic 16-digit account keys
+  - Zero phone verification
+  - Free tier: 50 MB receive-only mailbox storage
+  - Unlimited subaddressing
+  - Persistent @vael.pw aliases
+  - No credit card required
+
+  ## Pricing
+
+  Free tier available. Paid plans for more storage.
+brand: VaelMail
+updated_at: 2026-11-21 09:09

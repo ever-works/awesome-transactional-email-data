@@ -1,0 +1,43 @@
+name: Atomic Mail
+description: Atomic Mail is an email service built for AI agents, entirely free.
+  It offers programmatic inbox creation, custom domains, and full send/receive
+  over the open JMAP standard (RFC 8620/8621), with a hosted MCP server
+  available.
+source_url: https://atomicmail.io/
+category: Self-Hosted Mail Servers
+tags:
+  - Free Plan
+  - Open Source
+  - JMAP
+  - AI
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Atomic Mail is a free email service built for AI agents and programmatic
+  access.
+
+
+  ## Key Features
+
+
+  - Entirely free email service
+
+  - Programmatic inbox creation
+
+  - Custom domains support
+
+  - Full send/receive over the open JMAP standard (RFC 8620/8621)
+
+  - Hosted MCP server available
+
+  - Not disposable/temporary email
+
+
+  ## Pricing
+
+
+  Completely free.
+brand: Atomic Mail
+updated_at: 2026-11-21 09:09

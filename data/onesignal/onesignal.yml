@@ -1,0 +1,24 @@
+name: OneSignal
+description: OneSignal offers 10,000 emails per month free with no credit card required.
+source_url: https://onesignal.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+featured: false
+markdown: |-
+  ## Overview
+
+  OneSignal provides email and push notification services.
+
+  ## Key Features
+
+  - 10,000 emails per month free
+  - No credit card required
+
+  ## Pricing
+
+  Free tier (10,000 emails/month). Paid plans for higher volumes.
+brand: OneSignal
+updated_at: 2026-11-21 09:09

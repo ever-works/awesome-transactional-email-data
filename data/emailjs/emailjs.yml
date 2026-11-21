@@ -1,0 +1,40 @@
+name: EmailJS
+description: EmailJS is an email client that lets you send emails right from the
+  client without exposing your credentials. The free tier includes 200 monthly
+  requests, 2 email templates, requests up to 50Kb, and limited contacts
+  history.
+source_url: https://www.emailjs.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - API
+  - Client-side
+featured: false
+markdown: >-
+  ## Overview
+
+
+  EmailJS allows sending emails directly from the client side without exposing
+  credentials.
+
+
+  ## Key Features
+
+
+  - Send emails from client without exposing credentials
+
+  - Free tier: 200 monthly requests
+
+  - 2 email templates
+
+  - Requests up to 50Kb
+
+  - Limited contacts history
+
+
+  ## Pricing
+
+
+  Free tier (200 monthly requests). Paid plans for higher volumes.
+brand: EmailJS
+updated_at: 2026-11-21 09:09

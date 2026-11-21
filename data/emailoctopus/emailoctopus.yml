@@ -1,0 +1,23 @@
+name: EmailOctopus
+description: EmailOctopus offers up to 2,500 subscribers and 10,000 emails per month free.
+source_url: https://emailoctopus.com/
+category: Email APIs
+tags:
+  - Free Plan
+  - Newsletter
+featured: false
+markdown: |-
+  ## Overview
+
+  EmailOctopus is an email marketing and sending service.
+
+  ## Key Features
+
+  - Up to 2,500 subscribers free
+  - Up to 10,000 emails per month free
+
+  ## Pricing
+
+  Free tier (2,500 subscribers, 10,000 emails/month). Paid plans for more.
+brand: EmailOctopus
+updated_at: 2026-11-21 09:09

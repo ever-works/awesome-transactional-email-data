@@ -1,0 +1,39 @@
+name: chasquid
+description: chasquid is an SMTP (email) server with a focus on simplicity,
+  security, and ease of operation. It is written in Go and released under the
+  Apache-2.0 license. The project is self-hosted and open source.
+source_url: https://chasquid.org/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - SMTP
+featured: false
+markdown: >-
+  ## Overview
+
+
+  chasquid is an SMTP (email) server written in Go with a focus on simplicity,
+  security, and ease of operation.
+
+
+  ## Deployment
+
+
+  Self-hosted.
+
+
+  ## License
+
+
+  Apache-2.0
+
+
+  ## Source Code
+
+
+  https://github.com/albertito/chasquid
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,28 @@
+name: DomainCanary
+description: DomainCanary is a DMARC enforcement service that protects your
+  domain from email spoofing. The first domain is free with 90 days of report
+  detail and step-by-step policies you publish yourself.
+source_url: https://domaincanary.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - DMARC
+  - Deliverability
+featured: false
+markdown: |-
+  ## Overview
+
+  DomainCanary enforces DMARC policies to protect domains from email spoofing.
+
+  ## Key Features
+
+  - DMARC enforcement
+  - Protects domains from email spoofing
+  - First domain free with 90 days of report detail
+  - Step-by-step policies you publish yourself
+
+  ## Pricing
+
+  Free tier (first domain free). Paid plans for additional domains.
+brand: DomainCanary
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,31 @@
+name: OpenSMTPD
+description: OpenSMTPD is a secure SMTP server implementation from the OpenBSD
+  project. It is written in C and released under the ISC license.
+source_url: https://opensmtpd.org/
+category: Self-Hosted Mail Servers
+tags:
+  - open-source
+  - self-hosted
+  - SMTP
+  - OpenBSD
+featured: false
+markdown: |-
+  ## Overview
+
+  OpenSMTPD is a secure SMTP server implementation from the OpenBSD project.
+
+  ## Deployment
+
+  Self-hosted.
+
+  ## License
+
+  ISC
+
+  ## Source Code
+
+  Source code repository available from the OpenBSD project.
+brand: ""
+brand_logo_url: ""
+images: []
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,31 @@
+name: Tuta
+description: Tuta is a free secure email account service provider with built-in
+  end-to-end encryption, no ads, and no tracking. It offers 1GB of storage and
+  one calendar free. Tuta is partially open source and can be self-hosted.
+source_url: https://tuta.com/
+category: Self-Hosted Mail Servers
+tags:
+  - Open Source
+  - Self-Hosted
+  - Free Plan
+  - Secure
+  - Encryption
+featured: false
+markdown: |-
+  ## Overview
+
+  Tuta provides secure, encrypted email accounts.
+
+  ## Key Features
+
+  - End-to-end encryption
+  - No ads, no tracking
+  - Free: 1GB storage, one calendar
+  - Partially open source
+  - Can be self-hosted
+
+  ## Pricing
+
+  Free tier (1GB storage). Paid plans for more storage and features.
+brand: Tuta
+updated_at: 2026-11-21 09:09

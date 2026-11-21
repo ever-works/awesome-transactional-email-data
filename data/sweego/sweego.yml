@@ -1,0 +1,26 @@
+name: Sweego
+description: Sweego is a European transactional emails API for developers,
+  offering 100 emails per day free.
+source_url: https://sweego.eu/
+category: Email APIs
+tags:
+  - Free Plan
+  - Transactional
+  - API
+  - European
+featured: false
+markdown: |-
+  ## Overview
+
+  Sweego is a European transactional email API.
+
+  ## Key Features
+
+  - 100 emails per day free
+  - European transactional email service
+
+  ## Pricing
+
+  Free tier (100 emails/day). Paid plans for higher volumes.
+brand: Sweego
+updated_at: 2026-11-21 09:09

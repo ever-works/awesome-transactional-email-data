@@ -1,0 +1,28 @@
+name: disban.io
+description: disban.io protects user signups from disposable emails or validates
+  an email against disposable services. It offers 2,000 free check credits per
+  month with no credit card required.
+source_url: https://disban.io/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  disban.io validates email addresses and blocks disposable email signups.
+
+  ## Key Features
+
+  - Protect user signups from disposable emails
+  - Validate emails against disposable services
+  - Free: 2,000 check credits per month
+  - No credit card required
+
+  ## Pricing
+
+  Free tier (2,000 checks/month). Paid plans for higher volumes.
+brand: disban.io
+updated_at: 2026-11-21 09:09

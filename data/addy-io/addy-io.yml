@@ -1,0 +1,28 @@
+name: addy.io
+description: addy.io is an open-source anonymous email forwarding service that
+  lets users create unlimited email aliases for free to protect their primary
+  email address.
+source_url: https://addy.io/
+category: Self-Hosted Mail Servers
+tags:
+  - Open Source
+  - Free Plan
+  - Email Forwarding
+  - Privacy
+featured: false
+markdown: |-
+  ## Overview
+
+  addy.io is an open-source anonymous email forwarding service.
+
+  ## Key Features
+
+  - Create unlimited email aliases for free
+  - Anonymous email forwarding
+  - Open-source project
+
+  ## Pricing
+
+  Completely free.
+brand: addy.io
+updated_at: 2026-11-21 09:09

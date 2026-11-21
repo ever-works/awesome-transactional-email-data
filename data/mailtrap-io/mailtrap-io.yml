@@ -1,0 +1,30 @@
+name: Mailtrap.io
+description: Mailtrap.io offers email API and SMTP with 4,000 emails per month
+  free, limited to 150 emails per day. Email Marketing includes 500 contacts and
+  1,500 emails per month. Email Sandbox includes 50 test emails per month, one
+  sandbox, and up to 10 stored emails.
+source_url: https://mailtrap.io/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - SMTP
+  - API
+  - Testing
+featured: false
+markdown: |-
+  ## Overview
+
+  Mailtrap.io provides email testing and sending infrastructure.
+
+  ## Key Features
+
+  - Email API and SMTP
+  - 4,000 emails per month free (limited to 150 emails/day)
+  - Email Marketing: 500 contacts and 1,500 emails per month
+  - Email Sandbox: 50 test emails per month, one sandbox, up to 10 stored emails
+
+  ## Pricing
+
+  Free tier available. Paid plans for higher volumes.
+brand: Mailtrap
+updated_at: 2026-11-21 09:09

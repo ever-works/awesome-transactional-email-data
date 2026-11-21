@@ -1,0 +1,30 @@
+name: ZeroSMTP
+description: ZeroSMTP is a free SMTP relay on the msgwing.com domain, up to 200
+  emails per day, with no paid tier. It sends from a shared @msgwing.com address
+  only (no custom domain). Ready-to-run code examples in 15 languages plus
+  Windows Server/Linux/network printer setup guides.
+source_url: https://zerosmtp.com/
+category: SMTP Relays
+tags:
+  - Free Plan
+  - SMTP
+featured: false
+markdown: |-
+  ## Overview
+
+  ZeroSMTP is a free SMTP relay service.
+
+  ## Key Features
+
+  - Free SMTP relay on msgwing.com domain
+  - Up to 200 emails per day
+  - No paid tier
+  - Sends from shared @msgwing.com address only (no custom domain)
+  - Code examples in 15 languages
+  - Setup guides for Windows Server, Linux, network printers
+
+  ## Pricing
+
+  Completely free.
+brand: ZeroSMTP
+updated_at: 2026-11-21 09:09

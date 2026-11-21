@@ -1,0 +1,29 @@
+name: EtherealMail
+description: EtherealMail is a fake SMTP service mainly aimed at Nodemailer and
+  EmailEngine users. It is an entirely free anti-transactional email service
+  where messages never get delivered.
+source_url: https://ethereal.email/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - SMTP
+  - Testing
+  - Fake SMTP
+featured: false
+markdown: |-
+  ## Overview
+
+  EtherealMail is a fake SMTP service for testing email sending.
+
+  ## Key Features
+
+  - Fake SMTP service
+  - Aimed at Nodemailer and EmailEngine users
+  - Messages never get delivered (anti-transactional)
+  - Entirely free
+
+  ## Pricing
+
+  Completely free.
+brand: EtherealMail
+updated_at: 2026-11-21 09:09

@@ -1,0 +1,36 @@
+name: Abstract API
+description: Abstract API is an API suite offering multiple developer tools
+  including email validation, IP geolocation, and phone number validation. The
+  email validation service checks email deliverability and validity. It offers a
+  free tier for developers.
+source_url: https://abstractapi.com
+category: Deliverability & Testing
+tags:
+  - API
+  - Free Plan
+  - Email Validation
+featured: false
+markdown: >-
+  ## Overview
+
+
+  Abstract API is an API suite for various use cases, including IP geolocation,
+  phone number validation, or email validation.
+
+
+  ## Features
+
+
+  - Email validation API to check email deliverability and validity
+
+  - IP geolocation API
+
+  - Phone number validation API
+
+
+  ## Pricing
+
+
+  Free tier available for developers.
+brand: Abstract API
+updated_at: 2026-11-21 09:09

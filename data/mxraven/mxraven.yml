@@ -1,0 +1,29 @@
+name: mxRaven
+description: mxRaven is programmable inbound email infrastructure with webhook,
+  forward, and auto-reply routing, plus a durable pull-based event stream for
+  consuming mail without a public endpoint. The free tier includes 1,000
+  outbound and 1,000 inbound tasks per month, 1 workspace, and 1 domain.
+source_url: https://mxraven.com/
+category: Inbound Email Parsing
+tags:
+  - Free Plan
+  - Inbound
+  - Webhooks
+featured: false
+markdown: |-
+  ## Overview
+
+  mxRaven is programmable inbound email infrastructure.
+
+  ## Key Features
+
+  - Webhook, forward, and auto-reply routing
+  - Durable pull-based event stream
+  - Free tier: 1,000 outbound and 1,000 inbound tasks per month
+  - 1 workspace, 1 domain
+
+  ## Pricing
+
+  Free tier available. Paid plans for higher volumes.
+brand: mxRaven
+updated_at: 2026-11-21 09:09

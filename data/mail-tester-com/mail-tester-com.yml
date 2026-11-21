@@ -1,0 +1,25 @@
+name: mail-tester.com
+description: mail-tester.com tests whether an email's DNS/SPF/DKIM/DMARC
+  settings are correct, with 20 free tests per month.
+source_url: https://www.mail-tester.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Deliverability
+  - Testing
+featured: false
+markdown: |-
+  ## Overview
+
+  mail-tester.com tests email DNS/SPF/DKIM/DMARC settings.
+
+  ## Key Features
+
+  - Test DNS/SPF/DKIM/DMARC settings
+  - 20 free tests per month
+
+  ## Pricing
+
+  Free tier (20 tests/month). Paid plans for higher volumes.
+brand: mail-tester.com
+updated_at: 2026-11-21 09:09

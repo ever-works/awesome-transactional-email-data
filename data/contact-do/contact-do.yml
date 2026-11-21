@@ -1,0 +1,24 @@
+name: Contact.do
+description: Contact.do provides a contact form in a link, described as bitly
+  for contact forms.
+source_url: https://contact.do/
+category: Email Templates & Builders
+tags:
+  - Free Plan
+  - Contact Form
+featured: false
+markdown: |-
+  ## Overview
+
+  Contact.do provides a simple contact form service via a shareable link.
+
+  ## Key Features
+
+  - Contact form in a link
+  - Simple URL-based contact forms
+
+  ## Pricing
+
+  Completely free.
+brand: Contact.do
+updated_at: 2026-11-21 09:09

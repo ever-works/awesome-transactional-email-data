@@ -1,0 +1,25 @@
+name: TempMailDetector.com
+description: TempMailDetector.com verifies up to 200 emails per month for free
+  and checks if an email is temporary or not.
+source_url: https://tempmaildetector.com/
+category: Deliverability & Testing
+tags:
+  - Free Plan
+  - Email Validation
+  - Disposable
+featured: false
+markdown: |-
+  ## Overview
+
+  TempMailDetector.com detects temporary/disposable email addresses.
+
+  ## Key Features
+
+  - Verify up to 200 emails per month for free
+  - Detect temporary/disposable email addresses
+
+  ## Pricing
+
+  Free tier (200 verifications/month). Paid plans for higher volumes.
+brand: TempMailDetector.com
+updated_at: 2026-11-21 09:09
