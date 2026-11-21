@@ -1,56 +1,132 @@
 - id: api
-  name: "API"
+  name: API
 - id: paid
-  name: "Paid"
+  name: Paid
 - id: transactional
-  name: "Transactional"
+  name: Transactional
 - id: freemium
-  name: "Freemium"
+  name: Freemium
 - id: developer-tools
-  name: "Developer Tools"
+  name: Developer Tools
 - id: aws
-  name: "AWS"
+  name: AWS
 - id: enterprise
-  name: "Enterprise"
+  name: Enterprise
 - id: smtp
-  name: "SMTP"
+  name: SMTP
 - id: marketing-automation
-  name: "Marketing Automation"
+  name: Marketing Automation
 - id: crm
-  name: "CRM"
+  name: CRM
 - id: email-builder
-  name: "Email Builder"
+  name: Email Builder
 - id: saas
-  name: "SaaS"
+  name: Saas
 - id: open-source
-  name: "Open Source"
+  name: Open Source
 - id: self-hosted
-  name: "Self-Hosted"
+  name: Self Hosted
 - id: testing
-  name: "Testing"
+  name: Testing
 - id: deliverability
-  name: "Deliverability"
+  name: Deliverability
 - id: mta
-  name: "MTA"
+  name: MTA
 - id: high-volume
-  name: "High Volume"
+  name: High Volume
 - id: mail-server
-  name: "Mail Server"
+  name: Mail Server
 - id: docker
-  name: "Docker"
+  name: Docker
 - id: email-hosting
-  name: "Email Hosting"
+  name: Email Hosting
 - id: kubernetes
-  name: "Kubernetes"
+  name: Kubernetes
 - id: email-templates
-  name: "Email Templates"
+  name: Email Templates
 - id: design
-  name: "Design"
+  name: Design
 - id: inbound
-  name: "Inbound"
+  name: Inbound
 - id: webhooks
-  name: "Webhooks"
+  name: Webhooks
 - id: free-plan
-  name: "Free Plan"
+  name: Free Plan
 - id: email-editor
-  name: "Email Editor"
+  name: Email Editor
+- id: email-validation
+  name: Email Validation
+- id: email-forwarding
+  name: Email Forwarding
+- id: privacy
+  name: Privacy
+- id: jmap
+  name: JMAP
+- id: ai
+  name: AI
+- id: ip-geolocation
+  name: IP Geolocation
+- id: disposable
+  name: Disposable
+- id: newsletter
+  name: Newsletter
+- id: dmarc
+  name: DMARC
+- id: contact-form
+  name: Contact Form
+- id: imap
+  name: IMAP
+- id: pop3
+  name: POP3
+- id: client-side
+  name: Client Side
+- id: spfdkimdmarc
+  name: SPF/DKIM/DMARC
+- id: fake-smtp
+  name: Fake SMTP
+- id: nodejs
+  name: Node.js
+- id: dkim
+  name: DKIM
+- id: automation
+  name: Automation
+- id: public
+  name: Public
+- id: interactive-emails
+  name: Interactive Emails
+- id: amp
+  name: Amp
+- id: mit-license
+  name: MIT License
+- id: openbsd
+  name: OpenBSD
+- id: bulk
+  name: Bulk
+- id: ai-powered
+  name: AI Powered
+- id: email-parsing
+  name: Email Parsing
+- id: secure
+  name: Secure
+- id: encryption
+  name: Encryption
+- id: transactional-email
+  name: Transactional Email
+- id: cloud
+  name: Cloud
+- id: eu-hosted
+  name: EU Hosted
+- id: templates
+  name: Templates
+- id: aws-ses
+  name: AWS SES
+- id: rust
+  name: Rust
+- id: european
+  name: European
+- id: webmail
+  name: Webmail
+- id: waitlist
+  name: Waitlist
+- id: pay-as-you-go
+  name: Pay As You Go

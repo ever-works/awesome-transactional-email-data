@@ -1,12 +1,52 @@
-- url: "https://zapier.com/blog/best-transactional-email-sending-services/"
-  title: "Zapier — The 7 Best Transactional Email Services"
-- url: "https://github.com/ripienaar/free-for-dev#email"
-  title: "free-for-dev — section “Email”"
-- url: "https://awesome-selfhosted.net/tags/communication---email---mail-transfer-agents.html"
-  title: "awesome-selfhosted — Communication - Email - Mail Transfer Agents"
-- url: "https://en.wikipedia.org/wiki/Comparison_of_mail_servers"
-  title: "Wikipedia — Comparison of mail servers"
-- url: "https://github.com/topics/email-api"
-  title: "GitHub topic — `email-api` (580 repos)"
-- url: "https://github.com/topics/smtp"
-  title: "GitHub topic — `smtp` (5,085 repos)"
+- url: https://awesome-selfhosted.net/tags/communication---email---mail-transfer-agents.html
+  normalized_url: https://awesome-selfhosted.net/tags/communication---email---mail-transfer-agents.html
+  first_seen_at: 2026-11-21T09:08:17.200Z
+  last_attempted_at: 2026-11-21T09:08:17.200Z
+  last_success_at: 2026-11-21T09:08:17.200Z
+  status: success
+  items_created: 8
+  pipeline: agent-pipeline
+- url: https://docs.postalserver.io
+  normalized_url: https://docs.postalserver.io/
+  first_seen_at: 2026-11-21T08:51:21.801Z
+  last_attempted_at: 2026-11-21T08:51:21.801Z
+  last_success_at: 2026-11-21T08:51:21.801Z
+  status: success
+  items_created: 1
+  pipeline: agent-pipeline
+- url: https://en.wikipedia.org/wiki/Comparison_of_mail_servers
+  normalized_url: https://en.wikipedia.org/wiki/Comparison_of_mail_servers
+  first_seen_at: 2026-11-21T09:09:28.411Z
+  last_attempted_at: 2026-11-21T09:09:28.411Z
+  last_success_at: 2026-11-21T09:09:28.411Z
+  status: success
+  items_created: 7
+  pipeline: agent-pipeline
+- url: https://github.com/ripienaar/free-for-dev#email
+  normalized_url: https://github.com/ripienaar/free-for-dev
+  first_seen_at: 2026-11-21T09:06:58.215Z
+  last_attempted_at: 2026-11-21T09:06:58.215Z
+  last_success_at: 2026-11-21T09:06:58.215Z
+  status: success
+  items_created: 85
+  pipeline: agent-pipeline
+- url: https://github.com/topics/email-api
+  normalized_url: https://github.com/topics/email-api
+  first_seen_at: 2026-11-21T09:09:46.502Z
+  last_attempted_at: 2026-11-21T09:09:46.502Z
+  status: empty
+  items_created: 0
+  pipeline: agent-pipeline
+  provider: Local (Readability)
+  error: "No items retrieved from URL: https://github.com/topics/email-api"
+- url: https://github.com/topics/smtp
+  title: GitHub topic — `smtp` (5,085 repos)
+  normalized_url: https://github.com/topics/smtp
+- url: https://zapier.com/blog/best-transactional-email-sending-services/
+  normalized_url: https://zapier.com/blog/best-transactional-email-sending-services
+  first_seen_at: 2026-11-21T08:52:24.460Z
+  last_attempted_at: 2026-11-21T08:52:24.460Z
+  last_success_at: 2026-11-21T08:52:24.460Z
+  status: success
+  items_created: 4
+  pipeline: agent-pipeline

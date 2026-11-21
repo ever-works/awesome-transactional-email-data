@@ -5,15 +5,26 @@ items_name: Items
 paging_mode: paging
 copyright_year: 2026
 name: Awesome Transactional Email
-initial_prompt: "A curated directory of transactional email APIs, SMTP relays,
-  self-hosted mail servers and email-testing tools. Include products such as
-  Postmark, Resend, Amazon SES, SendGrid, Mailgun, Brevo, Mailjet, SparkPost,
-  Mailtrap, Loops, Plunk, Postal, plus other notable commercial and open-source
-  options. Categories: Email APIs, SMTP Relays, Self-Hosted Mail Servers, Email
-  Templates & Builders, Deliverability & Testing, Inbound Email Parsing. For
-  every item capture the official website, a short factual description, pricing
-  model (free, freemium, paid, open source), deployment (cloud or self-hosted),
-  key features and integrations."
+initial_prompt: |-
+  A curated directory of transactional email APIs, SMTP relays, self-hosted mail servers and email-testing tools. Include products such as Postmark, Resend, Amazon SES, SendGrid, Mailgun, Brevo, Mailjet, SparkPost, Mailtrap, Loops, Plunk, Postal, plus other notable commercial and open-source options. Categories: Email APIs, SMTP Relays, Self-Hosted Mail Servers, Email Templates & Builders, Deliverability & Testing, Inbound Email Parsing. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+  Initial categories: Email APIs; SMTP Relays; Self-Hosted Mail Servers; Email Templates & Builders; Deliverability & Testing; Inbound Email Parsing.
+  Target keywords: transactional email api, email api, smtp service, sendgrid alternatives.
+
+  Start with these source lists (use the raw README link for GitHub lists):
+  - https://zapier.com/blog/best-transactional-email-sending-services/
+  - https://github.com/ripienaar/free-for-dev#email
+  - https://awesome-selfhosted.net/tags/communication---email---mail-transfer-agents.html
+  - https://en.wikipedia.org/wiki/Comparison_of_mail_servers
+  - https://github.com/topics/email-api
+  - https://github.com/topics/smtp
+
+  Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+  One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+  Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+  Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+  Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+  Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
 website_repo: ever-works/awesome-transactional-email-website
 company_website: https://transactional-email.ever.works
 settings:
@@ -31,8 +42,63 @@ pagination:
 custom_menu:
   header: []
   footer: []
-version: 0.1.0
+version: 0.1.1
 activity_sync:
   mode: pull
 providers:
   pipeline: agent-pipeline
+metadata:
+  last_request_data:
+    generation_method: create-update
+    update_with_pull_request: false
+    website_repository_creation_method: create-using-template
+    name: Awesome Transactional Email
+    prompt: |-
+      A curated directory of transactional email APIs, SMTP relays, self-hosted mail servers and email-testing tools. Include products such as Postmark, Resend, Amazon SES, SendGrid, Mailgun, Brevo, Mailjet, SparkPost, Mailtrap, Loops, Plunk, Postal, plus other notable commercial and open-source options. Categories: Email APIs, SMTP Relays, Self-Hosted Mail Servers, Email Templates & Builders, Deliverability & Testing, Inbound Email Parsing. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+      Initial categories: Email APIs; SMTP Relays; Self-Hosted Mail Servers; Email Templates & Builders; Deliverability & Testing; Inbound Email Parsing.
+      Target keywords: transactional email api, email api, smtp service, sendgrid alternatives.
+
+      Start with these source lists (use the raw README link for GitHub lists):
+      - https://zapier.com/blog/best-transactional-email-sending-services/
+      - https://github.com/ripienaar/free-for-dev#email
+      - https://awesome-selfhosted.net/tags/communication---email---mail-transfer-agents.html
+      - https://en.wikipedia.org/wiki/Comparison_of_mail_servers
+      - https://github.com/topics/email-api
+      - https://github.com/topics/smtp
+
+      Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+      One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+      Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+      Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+      Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+      Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+    model: nvidia/nemotron-3.5-super-vl:free
+    providers:
+      pipeline: agent-pipeline
+    pluginConfig:
+      target_items: 50
+      max_pages_to_process: 8
+      capture_screenshots: false
+    _processedPluginConfig: {}
+  initial_prompt: |-
+    A curated directory of transactional email APIs, SMTP relays, self-hosted mail servers and email-testing tools. Include products such as Postmark, Resend, Amazon SES, SendGrid, Mailgun, Brevo, Mailjet, SparkPost, Mailtrap, Loops, Plunk, Postal, plus other notable commercial and open-source options. Categories: Email APIs, SMTP Relays, Self-Hosted Mail Servers, Email Templates & Builders, Deliverability & Testing, Inbound Email Parsing. For every item capture the official website, a short factual description, pricing model (free, freemium, paid, open source), deployment (cloud or self-hosted), key features and integrations.
+
+    Initial categories: Email APIs; SMTP Relays; Self-Hosted Mail Servers; Email Templates & Builders; Deliverability & Testing; Inbound Email Parsing.
+    Target keywords: transactional email api, email api, smtp service, sendgrid alternatives.
+
+    Start with these source lists (use the raw README link for GitHub lists):
+    - https://zapier.com/blog/best-transactional-email-sending-services/
+    - https://github.com/ripienaar/free-for-dev#email
+    - https://awesome-selfhosted.net/tags/communication---email---mail-transfer-agents.html
+    - https://en.wikipedia.org/wiki/Comparison_of_mail_servers
+    - https://github.com/topics/email-api
+    - https://github.com/topics/smtp
+
+    Inclusion rules: every item is a real product, service, open-source project or platform in scope; never a statistic, quote, blog post, person or general concept.
+    One item per product. The item URL is the official website (never an affiliate link, review-site page or "top 10" article). Skip discontinued products and sites that no longer resolve.
+    Descriptions: 2-4 factual sentences, no hype; state the pricing model; for open source state the license and link the repository.
+    Each item gets exactly one primary category from the initial categories; do not create near-duplicate categories.
+    Tags where they apply: Open Source, Self-Hosted, Free Plan, Freemium, Paid, Enterprise, API, AI-Powered, plus niche-specific ones.
+    Never use G2, Capterra, GetApp, TrustRadius, AlternativeTo, Product Hunt, SourceForge/Slashdot, There's An AI For That or Toolify as sources.
+model: nvidia/nemotron-3.5-super-vl:free
